@@ -61,6 +61,6 @@ and fill the Instructions for running it :)
   
 ## Screenshots
 
-![App Screenshot](https://github.com/AKHILSUNNI/currency_converter-Bits-Bytes-HFH-TinkerHub-CEC/blob/master/Currency_Converter/currency_converter_image.jpg)
+![App Screenshot](https://github.com/AKHILSUNNI/currency_converter-Bits-Bytes-HFH-TinkerHub-CEC/blob/main/Currency_Converter/currency_converter_image.jpg)
 
   
